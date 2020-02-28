@@ -1,0 +1,66 @@
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\ApplicationInsights.config
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\csc.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\vbc.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\VBCSCompiler.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\YMS5120_ViewState.dll.config
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\YMS5120_ViewState.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\YMS5120_ViewState.pdb
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.Web.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.ApplicationInsights.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.Web.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.ApplicationInsights.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\obj\Debug\YMS5120_ViewState.csprojResolveAssemblyReference.cache
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\obj\Debug\YMS5120_ViewState.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_ViewState\YMS5120_ViewState\obj\Debug\YMS5120_ViewState.pdb
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\ApplicationInsights.config
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\csc.exe
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\vbc.exe
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\VBCSCompiler.exe
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\YMS5120_ViewState.dll.config
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\YMS5120_ViewState.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\YMS5120_ViewState.pdb
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.Web.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.Web.xml
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\obj\Debug\YMS5120_ViewState.csprojResolveAssemblyReference.cache
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\obj\Debug\YMS5120_ViewState.dll
+C:\Users\Suat Özcan\Downloads\ASP.NET\ASP.NET\YMS5120_ViewState\YMS5120_ViewState\obj\Debug\YMS5120_ViewState.pdb

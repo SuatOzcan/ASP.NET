@@ -1,0 +1,41 @@
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\ApplicationInsights.config
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\csc.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\vbc.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\VBCSCompiler.exe
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\YMS5120_StandartKontroller.dll.config
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\YMS5120_StandartKontroller.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\YMS5120_StandartKontroller.pdb
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.Web.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.ApplicationInsights.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.Web.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.ApplicationInsights.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\obj\Debug\YMS5120_StandartKontroller.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\obj\Debug\YMS5120_StandartKontroller.pdb
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\EntityFramework.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\EntityFramework.SqlServer.dll
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\EntityFramework.xml
+c:\users\ezgi\documents\visual studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\bin\EntityFramework.SqlServer.xml
+C:\Users\ezgi\Documents\Visual Studio 2015\Projects\YMS5120_StandartKontroller\YMS5120_StandartKontroller\obj\Debug\YMS5120_StandartKontroller.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Ezgi Bilge Hatun\ASP.NET\ASP.NET\YMS5120_StandartKontroller\YMS5120_StandartKontroller\obj\Debug\YMS5120_StandartKontroller.csprojAssemblyReference.cache
+C:\Program Files (x86)\Ezgi Bilge Hatun\ASP.NET\ASP.NET\YMS5120_StandartKontroller\YMS5120_StandartKontroller\obj\Debug\YMS5120_StandartKontroller.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Ezgi Bilge Hatun\ASP.NET\ASP.NET\YMS5120_StandartKontroller\YMS5120_StandartKontroller\obj\Debug\YMS5120_StandartKontroller.dll
+C:\Program Files (x86)\Ezgi Bilge Hatun\ASP.NET\ASP.NET\YMS5120_StandartKontroller\YMS5120_StandartKontroller\obj\Debug\YMS5120_StandartKontroller.pdb
